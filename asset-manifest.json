@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33c0156c.css",
+    "main.js": "/static/js/main.7e25d4cf.js",
+    "static/js/787.e3bbf787.chunk.js": "/static/js/787.e3bbf787.chunk.js",
+    "static/media/land_modal.png": "/static/media/land_modal.79a3ebaab17339b152f6.png",
+    "static/media/hzm_logo.png": "/static/media/hzm_logo.d3d30ef3ca34f5cf5f00.png",
+    "static/media/insta_icon.png": "/static/media/insta_icon.f77ac45c0a71edf77573.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.33c0156c.css.map": "/static/css/main.33c0156c.css.map",
+    "main.7e25d4cf.js.map": "/static/js/main.7e25d4cf.js.map",
+    "787.e3bbf787.chunk.js.map": "/static/js/787.e3bbf787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33c0156c.css",
+    "static/js/main.7e25d4cf.js"
+  ]
+}
